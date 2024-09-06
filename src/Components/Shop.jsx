@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 export const Shop = () => {
   return (
     <div className='mt-16 px-6 md:px-16'>
